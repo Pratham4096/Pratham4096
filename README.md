@@ -1,6 +1,13 @@
-# 💫 About Me:
-Hey 👋 What's up?<br>My name is Pratham Bhadoria and I'm currently doing my MCA at MSU Baroda.<br><br>About me<br>✨ Creating bugs since ...<br>📚 I'm currently learning Gen AI<br>🎯 Goals: Wanted to become a Full Stack Developer<br>🎲 Fun fact: I play souls-like games in my free time.
+# 💫 About Me: Pratham Bhadoria
 
+**Full-Stack Developer | MCA @ MSU Baroda | Gen AI Enthusiast**
+
+I build robust web applications and love solving complex algorithmic challenges. Whether I am integrating the Gemini API into a collaborative IDE, designing backend architectures with FastAPI, or competing in hackathons, I am always focused on shipping clean, impactful code.
+
+✨ **Building bugs since:** My first "Hello World"  
+📚 **Currently leveling up in:** Generative AI & System Design  
+🎯 **Current Goal:** Securing a high-impact Full-Stack engineering role  
+🎲 **Fun fact:** I play Souls-like games, so I have a high tolerance for punishing difficulty spikes—both in gaming and in debugging!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pratham4096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathambhadoria/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathambhadoria9@gmail.com) 
