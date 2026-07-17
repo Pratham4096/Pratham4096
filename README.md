@@ -42,3 +42,4 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Pratham4096&show_icons=true&theme=radical">
