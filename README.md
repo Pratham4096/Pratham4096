@@ -1,5 +1,7 @@
 
+<img src="https://github-readme-stats.vercel.app/api?username=Pratham4096&show_icons=true&theme=radical">
 <h1>Hi There, I'm Pratham <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 
 I'm a **Software Developer** pursuing my Masters at [MSU](https://msubaroda.ac.in/). My day to day work revolves around building and enhancing my coding skills. I'm open to collaborate on interesting projects.
 
@@ -42,4 +44,3 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham4096&show_icons=true&theme=radical">
