@@ -1,46 +1,39 @@
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham4096&show_icons=true&theme=radical">
-<h1>Hi There, I'm Pratham <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+###
 
+<p data-importer="text" align="left">My name is Pratham Bhadoria and I'm a currenly doing MCA at Msu Baroda.</p>
 
-I'm a **Software Developer** pursuing my Masters at [MSU](https://msubaroda.ac.in/). My day to day work revolves around building and enhancing my coding skills. I'm open to collaborate on interesting projects.
+###
 
-## Skill Set :muscle:
+<h2 data-importer="text" align="left">About me</h2>
 
-These are some of the major technologies that I use or have worked on in the past:
+###
 
-**Programming Languages**
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Gen Ai<br>🎯 Goals:Wanted to become Full Stack Developer<br>🎲 Fun fact:I play souls like game in my free time.</p>
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-|--|--|--|--|
+###
 
-**Libraries and Frameworks**
+<h2 data-importer="text" align="left">I code with</h2>
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Vite" alt="Vite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
-|--|--|--|--|--|
-<img title="FastAPI" alt="FastAPI" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|
+###
 
-**Infrastructure**
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-|--|--|
-
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Oracle" alt="Oracle" width="40px" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"> <br>
-|--|--|--|
-
-**Tools**
-
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Antigravity" alt="Antigravity" width="40px" src="https://img.icons8.com/color/48/000000/rocket.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="Postman" alt="Postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
-|--|--|--|--|
-<br>
-
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/prathambhadoria/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://github.com/Pratham4096"><img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="40"></a>
-|--|--|
-
-
+###
